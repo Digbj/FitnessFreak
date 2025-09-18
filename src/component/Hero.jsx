@@ -37,7 +37,7 @@ export const HeroSection = () => {
           {/* Main Headline */}
           <div>
             <h1 className="text-5xl md:text-7xl mb-4 font-dancing-script text-gray-200 bg-clip-text font-extrabold">
-              Fitness Freak
+              Fitness Tycoon
             </h1>
             <div className="w-16 md:w-24 h-1 bg-gradient-to-r from-blue-500 to-white rounded-full mb-4 md:mb-6"></div>
           </div>

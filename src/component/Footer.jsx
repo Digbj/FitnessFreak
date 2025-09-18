@@ -21,7 +21,7 @@ export const Footer = () => {
               <div className="flex items-center space-x-2 mb-4">
                 <img className="h-20 w-20" src={logo} alt="logo" />
                 <span className="font-extrabold font-dancing-script text-2xl lg:text-3xl">
-                  Fitness Freak
+                  Fitness Tycoon
                 </span>
               </div>
               <p className="text-gray-700 leading-relaxed">
