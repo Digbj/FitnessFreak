@@ -4,10 +4,7 @@ import {
   Facebook,
   Twitter,
   Instagram,
-  Linkedin,
-  Github,
   Heart,
-  MapPin,
 } from "lucide-react";
 import { Button } from "@mui/material";
 
@@ -73,7 +70,7 @@ export const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="#"
+                  href="#about"
                   className="text-gray-700 hover:text-blue-500 font-semibold transition-colors duration-200"
                 >
                   About Us
@@ -81,7 +78,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#contact"
                   className="text-gray-700 hover:text-blue-500 font-semibold transition-colors duration-200"
                 >
                   Contact
@@ -89,7 +86,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#success"
                   className="text-gray-700 hover:text-blue-500 font-semibold transition-colors duration-200"
                 >
                   Success Stories
