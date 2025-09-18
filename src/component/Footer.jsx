@@ -126,7 +126,7 @@ export const Footer = () => {
           <div className="flex flex-col md:flex-row justify-center items-center space-y-2 md:space-y-0 text-center">
             <div className="flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-4 text-gray-600">
               <span>
-                © {new Date().getFullYear()} Fitness Freak. All rights reserved.
+                © {new Date().getFullYear()} Fitness Tycoon. All rights reserved.
               </span>
               <div className="flex items-center">
                 <span>Made with </span>
