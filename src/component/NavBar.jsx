@@ -67,7 +67,7 @@ console.log(showAuth);
         {isOpen && (
           <div className="md:hidden bg-[#eefeff] shadow-lg">
             <ul className="flex flex-col space-y-4 px-4 py-6">
-              <a href="#home">
+              <a href="/">
                 <li className="hover:text-blue-500 cursor-pointer">Home</li>
               </a>
               <a href="#about">

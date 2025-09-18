@@ -94,7 +94,7 @@ export const HeroSection = () => {
               className="w-1/2 h-12 !rounded-xl !bg-black/40 !border !border-gray-400"
               variant="contained"
             >
-              Watch Demo
+              <a href="https://www.youtube.com/@fitnesstycoon">Watch Demo</a>
             </Button>
           </div>
 
