@@ -25,7 +25,7 @@ export const Footer = () => {
                 </span>
               </div>
               <p className="text-gray-700 leading-relaxed">
-                A fitness freak is passionate about health and workouts. A diet
+                A fitness Tycoon is passionate about health and workouts. A diet
                 planner platform helps track meals, calories, and nutrition,
                 offering personalized plans to achieve fitness goals
                 effectively.
