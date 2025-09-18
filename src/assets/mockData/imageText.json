@@ -6,7 +6,7 @@
       "title": "Personalized Training",
       "description": "Every body is unique. That's why we create custom workout plans tailored to your goals, lifestyle, and fitness level.",
       "paragraph": "Our certified trainers use advanced assessment techniques to understand your body mechanics, previous injuries, and personal preferences. We believe that cookie-cutter approaches don't work for everyone. Our methodology involves comprehensive fitness assessments, body composition analysis, and lifestyle evaluation to design programs that fit seamlessly into your daily routine. Whether you're a complete beginner or an experienced athlete, we adapt our training methods to challenge you appropriately while ensuring safe progression towards your goals.",
-      "image": "/src/assets/images/training.webp"
+      "image": "/images/training.webp"
     },
     {
       "title": "Nutrition Planning",
@@ -18,13 +18,13 @@
         "Recipe recommendations and meal prep guidance",
         "Education on sustainable eating habits for long-term success"
       ],
-      "image": "/src/assets/images/diet.webp"
+      "image": "/images/diet.webp"
     },
     {
       "title": "Expert Community",
       "description": "Join a supportive community of certified trainers and like-minded fitness enthusiasts who will push you to succeed.",
       "paragraph": "Our community isn't just about accountability – it's about creating lasting friendships and connections with people who share your commitment to health and wellness. You'll find motivation, inspiration, and practical advice from members at every stage of their fitness journey. Through our exclusive online platform, you can participate in group challenges, share your progress, celebrate victories with others, and get support during tough times. Our trainers actively engage in community discussions, providing expert insights and answering questions. Regular virtual meetups, workout sessions, and educational webinars keep the community engaged and growing together.",
-      "image": "/src/assets/images/community.webp"
+      "image": "/images/community.webp"
     },
     {
       "title": "24/7 Support",
@@ -36,7 +36,7 @@
         "Emergency workout modifications for travel or equipment changes",
         "Crisis motivation support when you're feeling unmotivated"
       ],
-      "image": "/src/assets/images/support.webp"
+      "image": "/images/support.webp"
     }
   ]
 }
